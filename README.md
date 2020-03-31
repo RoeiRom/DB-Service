@@ -1,4 +1,4 @@
-# Postgraphile Demo
+# DB-Service
 
 Demonstrate postgraphile to query postresql db with graphql
 
